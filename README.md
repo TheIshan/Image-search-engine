@@ -13,6 +13,9 @@ This is a simple and responsive image search engine built using HTML, CSS, and J
 - ⚡ Loading indicator while fetching results
 
 ---
+## 📸 Preview
+
+![Image search enigne Preview](https://github.com/TheIshan/Image-search-engine/blob/main/Image-search-enigne/Preview.png)
 
 ## 🚀 How to Use
 
