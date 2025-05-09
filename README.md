@@ -24,7 +24,6 @@ This is a simple and responsive image search engine built using HTML, CSS, and J
 3. Enter a keyword in the search bar and hit **Search**.
 4. Scroll through the images and click **Show More** to load more results.
 
-> ⚠️ **Note**: You must use your own [Unsplash API access key](https://unsplash.com/developers) and replace it in `script.js`.
 
 ```js
-const accessKey = "your_unsplash_access_key";
+const accessKey = "ka6df2EGoTuZclC-mJ_Z7O3dOSBSbcUDjzxsKD9ap6A";
